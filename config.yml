@@ -114,7 +114,7 @@ links:
 # url: The URL of the social media link
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
-# socials:
+socials:
 #   - social:
 #       icon: "fa-brands fa-medium"
 #       url: "https://blog.zhgchg.li"
@@ -127,12 +127,12 @@ links:
 #       title: "ZhgChgLi's GitHub"
 #       alt: "ZhgChgLi's GitHub"
 #       target: "_blank"
-#   - social:
-#       icon: "fa-brands fa-twitter"
-#       url: "https://twitter.com/zhgchgli"
-#       title: "ZhgChgLi's Twitter"
-#       alt: "ZhgChgLi's Twitter"
-#       target: "_blank"
+  - social:
+      icon: "fa-brands fa-twitter"
+      url: "https://x.com/xKurohana"
+      title: "Kurohana's Twitter"
+      alt: "Kurohana's Twitter"
+      target: "_blank"
 #   - social:
 #       icon: "fa-brands fa-linkedin"
 #       url: "https://www.linkedin.com/in/zhgchgli/"
