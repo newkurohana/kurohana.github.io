@@ -54,14 +54,14 @@ links:
       title: "BlueSky"
       target: "_blank"
       rel: "noopener noreferrer"
-  # - link:
-  #     icon: "fa-brands fa-mastodon" # Use this for the Mastodon icon
-  #     text: "mastodon"
-  #     url: "https://masto.kurohana.me/" # Replace with your actual Mastodon profile URL
-  #     alt: "Visit kurohana's Mastodon Profile"
-  #     title: "Mastodon"
-  #     target: "_blank"
-  #     rel: "noopener noreferrer"
+  - link:
+      icon: "fa-brands fa-twitter" # Use this for the Mastodon icon
+      text: "twitter (x)"
+      url: "https://x.com/xKurohana" # Replace with your actual Mastodon profile URL
+      alt: "Visit kurohana's X Profile"
+      title: "twitter (x)"
+      target: "_blank"
+      rel: "noopener noreferrer"
 
 
 #   - link:
@@ -127,12 +127,12 @@ socials:
 #       title: "ZhgChgLi's GitHub"
 #       alt: "ZhgChgLi's GitHub"
 #       target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://x.com/xKurohana"
-      title: "Kurohana's Twitter"
-      alt: "Kurohana's Twitter"
-      target: "_blank"
+  # - social:
+  #     icon: "fa-brands fa-twitter"
+  #     url: "https://x.com/xKurohana"
+  #     title: "Kurohana's Twitter"
+  #     alt: "Kurohana's Twitter"
+  #     target: "_blank"
 #   - social:
 #       icon: "fa-brands fa-linkedin"
 #       url: "https://www.linkedin.com/in/zhgchgli/"
