@@ -49,7 +49,7 @@ links:
       icon: "fa-brands fa-square-bluesky" # Use this for the square BlueSky icon
       text: "BlueSky Profile"
       url: "https://bsky.app/profile/kurohana.me"
-      alt: "Visit Samuel's BlueSky Profile"
+      alt: "Visit kurohana's BlueSky Profile"
       title: "BlueSky Profile"
       target: "_blank"
 
