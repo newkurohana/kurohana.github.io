@@ -46,11 +46,11 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-square-bluesky" # Use this for the square BlueSky icon
-      text: "BlueSky Profile"
+      icon: "fa-brands fa-bluesky" # Use this for the square BlueSky icon
+      text: "🦋 bsky"
       url: "https://bsky.app/profile/kurohana.me"
       alt: "Visit kurohana's BlueSky Profile"
-      title: "BlueSky Profile"
+      title: "BlueSky"
       target: "_blank"
 
 #   - link:
