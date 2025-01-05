@@ -54,14 +54,14 @@ links:
       title: "BlueSky"
       target: "_blank"
       rel: "noopener noreferrer"
-  - link:
-      icon: "fa-brands fa-twitter" # Use this for the Mastodon icon
-      text: "twitter (x)"
-      url: "https://x.com/xKurohana" # Replace with your actual Mastodon profile URL
-      alt: "Visit kurohana's X Profile"
-      title: "twitter (x)"
-      target: "_blank"
-      rel: "noopener noreferrer"
+  # - link:
+  #     icon: "fa-brands fa-twitter" # Use this for the Mastodon icon
+  #     text: "twitter (x)"
+  #     url: "https://x.com/xKurohana" # Replace with your actual Mastodon profile URL
+  #     alt: "Visit kurohana's X Profile"
+  #     title: "twitter (x)"
+  #     target: "_blank"
+  #     rel: "noopener noreferrer"
 
 
 #   - link:
