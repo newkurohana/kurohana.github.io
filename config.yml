@@ -45,6 +45,7 @@ tagline: >-
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 # rel: Security attribute for links opening in a new tab
+
 links:
   - link:
       icon: "fa-brands fa-bluesky" # Use this for the square BlueSky icon
@@ -54,6 +55,23 @@ links:
       title: "BlueSky"
       target: "_blank"
       rel: "noopener noreferrer"
+  - link:
+      icon: "fa-solid fa-comments"
+      text: "Join XMPP MUC"
+      url: "xmpp:public@conference.chat.kurohana.me"
+      alt: "Connect to our public XMPP Conference Room"
+      title: "XMPP Multi-User Chat"
+      target: "_blank"
+      rel: "noopener noreferrer"
+  - link:
+      icon: "fa-solid fa-headset"
+      text: "Connect to TeamSpeak"
+      url: "ts3server://ts.kurohana.me"
+      alt: "Join our TeamSpeak Server"
+      title: "TeamSpeak Server"
+      target: "_blank"
+      rel: "noopener noreferrer"
+
   # - link:
   #     icon: "fa-brands fa-twitter" # Use this for the Mastodon icon
   #     text: "twitter (x)"
