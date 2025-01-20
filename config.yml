@@ -57,6 +57,14 @@ links:
       rel: "noopener noreferrer"
   - link:
       icon: "fa-solid fa-comments"
+      text: "XMPP Account"
+      url: "xmpp:kurohana@chat.kurohana.me"
+      alt: "Message me directly with XMPP"
+      title: "XMPP Direct Chat"
+      target: "_blank"
+      rel: "noopener noreferrer"
+  - link:
+      icon: "fa-solid fa-comments"
       text: "Public XMPP MUC"
       url: "xmpp:public@conference.chat.kurohana.me"
       alt: "Connect to our public XMPP Conference Room"
