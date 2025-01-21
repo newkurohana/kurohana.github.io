@@ -49,7 +49,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-bluesky" # Use this for the square BlueSky icon
-      text: "🌤️ bsky"
+      text: "bsky"
       url: "https://bsky.app/profile/kurohana.me"
       alt: "visit kurohana's bsky profile"
       title: "bsky"
@@ -57,7 +57,7 @@ links:
       rel: "noopener noreferrer"
   - link:
       icon: "fa-solid fa-comments"
-      text: "💬 xmpp account"
+      text: "xmpp account"
       url: "xmpp:kurohana@chat.kurohana.me"
       alt: "message me directly with xmpp"
       title: "xmpp direct chat"
@@ -65,7 +65,7 @@ links:
       rel: "noopener noreferrer"
   - link:
       icon: "fa-solid fa-comments"
-      text: "🫂 public xmpp muc"
+      text: "public xmpp muc"
       url: "xmpp:public@conference.chat.kurohana.me"
       alt: "connect to our public xmpp conference room"
       title: "xmpp multi-user chat"
@@ -73,7 +73,7 @@ links:
       rel: "noopener noreferrer"
   - link:
       icon: "fa-solid fa-headset"
-      text: "🎧 teamspeak"
+      text: "teamspeak"
       url: "ts3server://ts.kurohana.me"
       alt: "join our teamspeak server"
       title: "teamspeak server"
@@ -81,7 +81,7 @@ links:
       rel: "noopener noreferrer"
   - link:
       icon: "fa-solid fa-users"
-      text: "💎 chillzone"
+      text: "chillzone matrix"
       url: "https://matrix.to/#/#chillzone:kurohana.social"
       alt: "join chillzone matrix room"
       title: "matrix public room: chillzone"
